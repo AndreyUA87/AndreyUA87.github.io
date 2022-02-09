@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(214, 205, 205);
+}
+h1 {
+    color: blue;
+}
+span {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
+}
+.logo {
+    width: 800px;
+    border-radius: 13px;
+    margin: auto;
+    display: block;
+}
+a {
+    color: rgb(26, 96, 158);
+    text-decoration: none;
+    }
+a:hover{
+    text-decoration: underline;
+}
+ul {
+    list-style: none;
+    }
+li {
+    display: inline;
+    align-content: center;
+}
