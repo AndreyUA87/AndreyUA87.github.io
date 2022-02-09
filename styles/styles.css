@@ -26,8 +26,16 @@ a:hover{
 }
 ul {
     list-style: none;
+    align-content: center;
     }
 li {
     display: inline;
-    align-content: center;
 }
+.container {
+    width: 100%;
+}
+
+.container ul {
+    text-align: center;
+}
+
